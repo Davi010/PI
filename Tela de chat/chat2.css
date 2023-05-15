@@ -13,6 +13,135 @@ a{
     text-decoration: none;
     color: black;
 }
+@media screen and (max-width:1920px) {
+    body {
+        width: 100%;
+        
+    }
+}
+
+@media screen and (max-width:1770px) {
+    body {
+        width: 100%;
+        
+    }
+    ul.titulo_andamento {
+        width: 80%;
+    }
+
+    ul.item_andamento {
+        width: 80%;
+    }
+
+    ul.titulo_andamento2 {
+        width: 80%;
+    }
+
+    ul.item_andamento2 {
+        width: 80%;
+    }
+
+    ul.titulo_andamento3 {
+        width: 80%;
+    }
+
+    ul.item_andamento3 {
+        width: 80%;
+    }
+    section#chat2.andamento_S {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:1280px) {
+    body {
+        width: 100%;
+       
+    }
+
+    nav.menu {
+        width: 100%;
+    }
+
+    section#chat1.chat {
+        width: 60%;
+    }
+
+    input.escrita {
+        padding-right: 340px;
+
+    }
+
+    section#chat2.andamento_S {
+        width: 40%;
+    }
+
+    ul.titulo_andamento {
+        width: 80%;
+    }
+
+    ul.item_andamento {
+        width: 80%;
+    }
+
+    ul.titulo_andamento2 {
+        width: 80%;
+    }
+
+    ul.item_andamento2 {
+        width: 80%;
+    }
+
+    ul.titulo_andamento3 {
+        width: 80%;
+    }
+
+    ul.item_andamento3 {
+        width: 80%;
+    }
+
+    h3.andamento {
+        margin-left: 600px;
+    }
+
+    li.menu1 {
+        font-size: 15px;
+        margin-right: 130px;
+
+    }
+    nav.menu{
+    width: 1280px;
+    }
+    li.menu5 {
+        font-size: 15px;
+    }
+    li.menu1{
+        margin-right: 100px;
+    }  
+    li.menu2{
+            margin-right: 100px;
+    }
+        
+    li.menu3 {
+            margin-right: 100px;
+    }
+        
+    li.menu4 {
+            margin-right: 100px;
+    }
+        
+    li.menu5 {
+            margin-right: 100px;
+    }
+    
+    ul.item_menu {
+        
+        font-size: 13px;
+        display:flex;
+        margin-top: 30px;
+    }
+    
+}
 .titulos{
     display: flex;
     
@@ -119,12 +248,12 @@ box-shadow:  1px -15px 100px #00AEFF ,1200px -40px 100px #002447,400px -35px 100
     margin-left: 20px;
     padding: 10px;
     padding-bottom: 50px;
-    border: 1px solid #2994FF;
+    border: 1px solid #d4d4d4;
     border-radius: 30px;
     width: 500px;
     height: 150px;
-    background-color: #2994FF;
-    box-shadow: 4px 4px 2px 2px  #0065ca;
+    background-color:  #d4d4d4;
+    box-shadow: 4px 4px 2px 2px  #929292;
 }
 .servico{
     margin-top: 80px;
